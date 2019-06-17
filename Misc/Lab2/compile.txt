@@ -1,0 +1,5 @@
+g++ -Wall -I $HOME/Projects/С++/LROOP2_Olya_Potapova/Lab2/include/ ./src/program1.cpp ./src/address.cpp ./src/address_write.cpp -o program1_test 
+g++ -Wall -I $HOME/Projects/С++/LROOP2_Olya_Potapova/Lab2/include/ ./src/program2.cpp ./src/address.cpp ./src/address_open.cpp -o program2_test      
+g++ -Wall -I $HOME/Projects/С++/LROOP2_Olya_Potapova/Lab2/include/ ./src/program3.cpp ./src/address.cpp ./src/add_stream.cpp -o program3_test     
+g++ -Wall -I $HOME/Projects/С++/LROOP2_Olya_Potapova/Lab2/include/ ./src/program4.cpp ./src/address.cpp ./src/address_write.cpp ./src/delete_stream.cpp -o program4_test
+g++ -Wall -I $HOME/Projects/С++/LROOP2_Olya_Potapova/Lab2/include/ ./src/program5.cpp ./src/address.cpp ./src/address_write.cpp ./src/replace_stream.cpp -o program5_test

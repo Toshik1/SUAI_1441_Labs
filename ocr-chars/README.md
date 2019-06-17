@@ -1,0 +1,1 @@
+clang++ -Wall -O2 main.cpp -o main -ltesseract -llept 
